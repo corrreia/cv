@@ -1,0 +1,10 @@
+projects:
+- title: "University Projects"
+  subtitle: "University of Lisbon"
+  link: "https://github.com/corrreia?tab=repositories"
+  details: |
+    Multiple projects developed during my studies at the University of Lisbon.
+  links:
+  - title: Available in GitHub
+    url: https://github.com/corrreia?tab=repositories
+    icon: fab fa-github
