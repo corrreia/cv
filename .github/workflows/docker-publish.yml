@@ -38,10 +38,10 @@ jobs:
         uses: actions/checkout@v3
 
         # Sync submodules
-      - name: Sync submodules
-       run: |
-         git submodule sync --recursive
-         git submodule update --init --recursive
+      # - name: Sync submodules
+      #  run: |
+      #    git submodule sync --recursive
+      #    git submodule update --init --recursive
 
       # Install the cosign tool except on PR
       # https://github.com/sigstore/cosign-installer
