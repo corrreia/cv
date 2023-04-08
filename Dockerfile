@@ -1,5 +1,5 @@
 # Start with an official Hugo image
-FROM klakegg/hugo:ext-alpine
+FROM klakegg/hugo:ext
 
 # Set working directory
 WORKDIR /app
