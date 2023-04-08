@@ -1,16 +1,14 @@
-# Start with an official Hugo image
-FROM klakegg/hugo:ext
+# Use an official Hugo image as the base image
+FROM klakegg/hugo:0.88.1-ext-alpine
 
-# Set working directory
-WORKDIR /app
+# Set the working directory
+WORKDIR /site
 
-# Copy source files
+# Copy the contents of the current directory to the working directory
 COPY . .
 
-# Build the site
-RUN hugo --minify
+# Expose the default Hugo server port
+EXPOSE 1313
 
-EXPOSE 80
-
-# Serve the site on port 80
-CMD ["hugo", "serve", "--bind=0.0.0.0", "--port=80"]
+# Start the Hugo server
+CMD ["server", "--bind", "0.0.0.0", "--port", "1313"]
