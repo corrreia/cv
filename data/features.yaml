@@ -1,60 +1,64 @@
 about:
-  name: Tomás Correia
-  tagline: COMPUTER SCIENCE STUDENT
-  email: tomasc2002@gmail.com
-  links:
-    - title: /in/tomasmcorreia/
-      url: https://linkedin.com/in/tomasmcorreia/
-      icon: fab fa-linkedin
-    - title: corrreia
-      url: https://github.com/corrreia
-      icon: fab fa-github
-    - title: tomascorreia.net
-      url: https://tomascorreia.net
-      icon: fas fa-globe
-  details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    name: Tomás Correia
+    tagline: COMPUTER SCIENCE STUDENT
+    email: tomasc2002@gmail.com
+    links:
+        - title: /in/tomasmcorreia/
+          url: https://linkedin.com/in/tomasmcorreia/
+          icon: fab fa-linkedin
+        - title: corrreia
+          url: https://github.com/corrreia
+          icon: fab fa-github
+        - title: tomascorreia.net
+          url: https://tomascorreia.net
+          icon: fas fa-globe
+    details: |
+        Currently finishing a Bachelor's degree in Computer Science. Strong interest
+        for networking, virtualization, containerization and home lab/self hosting.
 
 skills:
-  - groupName: Programming
-    list:
-      - C
-      - Java
-      - JavaScript / TypeScript
-      - Go
-      - SourcePawn
-      - Python
-      - SQL
-      - HTML / CSS
+    - groupName: Programming
+      list:
+          - C
+          - Java
+          - JavaScript / TypeScript
+          - Go
+          - SourcePawn
+          - Python
+          - SQL
+          - HTML / CSS
+          - Haskell
 
+    - groupName: OSs
+      list:
+          - Fedora
+          - Ubuntu
+          - Debian
+          - Windows
 
-  - groupName: OSs
-    list:
-      - Fedora
-      - Ubuntu
-      - Debian
-      - Windows
+    - groupName: Tools & Software
+      list:
+          - Git
+          - Docker
+          - Proxmox
+          - VSCode
 
-  - groupName: Tools & Software
-    list:
-      - Git
-      - Docker
-      - Proxmox
-      - VSCode
+    - groupName: Other
+      list:
+          - Teamwork
+          - Problem Solving
+          - Communication
 
 interests:
-  - Networking
-  - Virtualization
-  - Containerization
-  - Linux
-  - Home Lab and Self Hosting
+    - Networking
+    - Virtualization
+    - Containerization
+    - Linux
+    - Home Lab and Self Hosting
 
 languages:
-  - name: Portuguese
-    level: Native
+    - name: Portuguese
+      level: Native
 
-  - name: English
-    level: Fluent
+    - name: English
+      level: Fluent
