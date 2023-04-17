@@ -1,10 +1,15 @@
 projects:
 - title: "University Projects"
-  subtitle: "University of Lisbon"
-  link: "https://github.com/corrreia?tab=repositories"
+  # subtitle: "University of Lisbon"
+  # link: "https://github.com/corrreia?tab=repositories"
   details: |
     Multiple projects developed during my studies at the University of Lisbon.
   links:
-  - title: Available in GitHub
-    url: https://github.com/corrreia?tab=repositories
-    icon: fab fa-github
+  - title: MagnaEats - Uber Eats clone in C, only backend 
+    url: https://github.com/corrreia/MagnaEats_pt2
+  - title: MigrantMatcher - Java Object Oriented Programming
+    url: https://github.com/corrreia/MigrantMatcher
+  - title: Distributed Systems, chain replecation, protobufs and Apache Zookeeper
+    url: https://github.com/corrreia/SD
+  - title: Solar System simulation using OpenGL and JavaScript
+    url: https://github.com/corrreia/ProjetoCG
