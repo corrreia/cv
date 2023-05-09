@@ -11,5 +11,5 @@ projects:
     url: https://github.com/corrreia/MigrantMatcher
   - title: Distributed Systems, chain replecation, protobufs and Apache Zookeeper
     url: https://github.com/corrreia/SD
-  - title: Solar System simulation using OpenGL and JavaScript
-    url: https://github.com/corrreia/ProjetoCG
+  # - title: Solar System simulation using OpenGL and JavaScript
+  #   url: https://github.com/corrreia/ProjetoCG
