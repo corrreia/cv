@@ -1,8 +1,20 @@
 baseURL: "/"
 languageCode: "en-us"
 title: "CV | Tomás Correia"
-disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
+disableKinds:
+    [
+        "taxonomy",
+        "term",
+        "page",
+        "section",
+        "RSS",
+        "sitemap",
+        "robotsTXT",
+        "404",
+    ]
 theme: "resume-a4"
+
+googleAnalytics: "G-X7ME0Z2BY3"
 
 # Construct main column, side column and additional page from features
 # Every column and page may include any features. Some features are
@@ -46,52 +58,52 @@ theme: "resume-a4"
 #         list: list of strings rendered under the group
 
 params:
-  useFontAwesome: true
-  css:
-    - custom.scss
-#   - print_urls.scss
-  header:
-    avatar: avatar.jpg
-    contact: true
-    tagline: true
-    links: true
-  side:
-    - feature: languages
-    - feature: skills
-      widget: word-list
-      style: compact # list, compact, title-list
-    - feature: education
-    - feature: interests
-      widget: word-list
-      style: list
-  pages:
-    - features:
-        - feature: about
-          title: About Me
-        # - feature: experience
-        - feature: projects
-          collection: projects
-        - feature: contributions
-          collection: contributions
-        - feature: hobby
-          title: Hobbies and Volunteering
-          collection: hobby
-        
-  footer:
-    show: true
-    credits: false
-    footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 16/06/2023.
-    links:
-      - prefix: Contact me on
-        title: Linkedin
-        url: 'https://linkedin.com/in/tomasmcorreia/'
-        icon: fab fa-linkedin
-      - prefix: Check out my
-        title: Website
-        url: 'https://tomascorreia.net'
-        icon: fas fa-globe
-      - prefix: Source code on
-        title: Github
-        url: 'https://github.com/corrreia/cv'
-        icon: fab fa-github
+    useFontAwesome: true
+    css:
+        - custom.scss
+    #   - print_urls.scss
+    header:
+        avatar: avatar.jpg
+        contact: true
+        tagline: true
+        links: true
+    side:
+        - feature: languages
+        - feature: skills
+          widget: word-list
+          style: compact # list, compact, title-list
+        - feature: education
+        - feature: interests
+          widget: word-list
+          style: list
+    pages:
+        - features:
+              - feature: about
+                title: About Me
+              # - feature: experience
+              - feature: projects
+                collection: projects
+              - feature: contributions
+                collection: contributions
+              - feature: hobby
+                title: Hobbies and Volunteering
+                collection: hobby
+
+    footer:
+        show: true
+        credits: false
+        footnote: >-
+            You can print this resume in A4 size or save as pdf. | Last update on 16/06/2023.
+        links:
+            - prefix: Contact me on
+              title: Linkedin
+              url: "https://linkedin.com/in/tomasmcorreia/"
+              icon: fab fa-linkedin
+            - prefix: Check out my
+              title: Website
+              url: "https://tomascorreia.net"
+              icon: fas fa-globe
+            - prefix: Source code on
+              title: Github
+              url: "https://github.com/corrreia/cv"
+              icon: fab fa-github
