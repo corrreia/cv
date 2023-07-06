@@ -1,20 +1,20 @@
 {
-  "baseURL": "/",
-  "languageCode": "en-us",
-  "title": "CV | Tomás Correia",
-  "disableKinds": [
-    "taxonomy",
-    "term",
-    "page",
-    "section",
-    "RSS",
-    "sitemap",
-    "robotsTXT",
-    "404"
-  ],
-  "theme": "resume-a4",
-  "googleAnalytics": "G-X7ME0Z2BY3",
-  "params": {
+	"baseURL": "/",
+	"languageCode": "en-us",
+	"title": "CV | Tomás Correia",
+	"disableKinds": [
+		"taxonomy",
+		"term",
+		"page",
+		"section",
+		"RSS",
+		"sitemap",
+		"robotsTXT",
+		"404"
+	],
+	"theme": "resume-a4",
+	"googleAnalytics": "G-X7ME0Z2BY3",
+	"params": {
 		"title": "CV | Tomás Correia",
 		"description": "Check out my resume, you can print it in A4 size or save as pdf.",
 		"images": ["avatar.jpg"],
@@ -93,5 +93,5 @@
 				}
 			]
 		}
-  }
+	}
 }
