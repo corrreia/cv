@@ -1,5 +1,6 @@
 {
 	"baseURL": "/",
+	"enableRobotsTXT": false,
 	"languageCode": "en-us",
 	"title": "CV | Tomás Correia",
 	"disableKinds": [
