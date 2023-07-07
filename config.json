@@ -18,7 +18,7 @@
 	"params": {
 		"title": "CV | Tomás Correia",
 		"description": "Check out my resume, you can print it in A4 size or save as pdf.",
-		"images": ["cover.png"],
+		"images": ["cover.jpg"],
 
 		"useFontAwesome": true,
 		"css": ["custom.scss"],
