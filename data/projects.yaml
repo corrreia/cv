@@ -13,6 +13,8 @@ projects:
     url: https://github.com/corrreia/SD
   # - title: Solar System simulation using OpenGL and JavaScript
   #   url: https://github.com/corrreia/ProjetoCG
+  - title: "Direct democracy platform, using Spring Boot, Thymeleaf and PostgreSQL"
+    url: "https://github.com/corrreia/democracia2"
 
 - title: "Sol & Mar"
   link: "https://sol-e-mar.pt"
