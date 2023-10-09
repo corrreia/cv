@@ -54,13 +54,21 @@
 						"title": "About Me"
 					},
 					{
+						"feature": "experience",
+						"title": "Experience"
+					},
+					{
 						"feature": "projects",
 						"collection": "projects"
 					},
 					{
 						"feature": "contributions",
 						"collection": "contributions"
-					},
+					}
+				]
+			},
+			{
+				"features": [
 					{
 						"feature": "hobby",
 						"title": "Hobbies and Volunteering",
@@ -72,7 +80,7 @@
 		"footer": {
 			"show": true,
 			"credits": false,
-			"footnote": "You can print this resume in A4 size or save as pdf. | Last update on 02/08/2023.",
+			"footnote": "You can print this resume in A4 size or save as pdf. | Last update on 09/10/2023.",
 			"links": [
 				{
 					"prefix": "Contact me on",

@@ -1,0 +1,18 @@
+# Use the official Hugo Docker image as the base image
+FROM klakegg/hugo:ext-alpine
+
+# Set the working directory inside the container
+WORKDIR /site
+
+# Copy the source code of the Hugo website to the container
+COPY . /site
+
+# Add the following lines to sync and update the Git submodules
+RUN git submodule sync --recursive && \
+    git submodule update --init --recursive
+
+# run hugo with hoit reload
+RUN hugo server --watch=true --bind 0.0.0.0
+
+# Expose the default Nginx port
+EXPOSE 1313
