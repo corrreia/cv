@@ -19,11 +19,10 @@ about:
 skills:
     - groupName: Programming
       list:
-          - C
-          - Java
-          - JavaScript / TypeScript
           - Go
-          - SourcePawn
+          - JavaScript / TypeScript
+          - Java
+          - C
           - Python
           - SQL
           - HTML / CSS
@@ -31,10 +30,10 @@ skills:
 
     - groupName: OSs
       list:
-          - Fedora
-          - Ubuntu
           - Debian
           - Windows
+          - Ubuntu
+          - Fedora
 
     - groupName: Tools & Software
       list:
@@ -45,8 +44,8 @@ skills:
 
     - groupName: Other
       list:
-          - Teamwork
           - Problem Solving
+          - Teamwork
           - Communication
 
 interests:
