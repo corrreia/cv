@@ -60,10 +60,6 @@
 					{
 						"feature": "projects",
 						"collection": "projects"
-					},
-					{
-						"feature": "contributions",
-						"collection": "contributions"
 					}
 				]
 			},
