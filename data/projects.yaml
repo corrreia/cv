@@ -23,3 +23,8 @@ projects:
   # links:
   # - title: Avaliable on GitHub
     # url: https://github.com/corrreia/sol-e-mar
+
+- title: "GoVFD"
+  link: "https://github.com/corrreia/vfd"
+  details: |
+    Small golang library to controll VFD's. (Vacuum Fluorescent Display)
