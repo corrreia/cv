@@ -1,5 +1,8 @@
-- company: MEO (previously Altice Portugal)
+- company: MEO
+  link: "https://meo.pt"
   roles:
     - role: Network Managment Systems
-      details: "Joined Altice Portugal's Darwin Program as a trainee in the Network Management Systems team. During this period, I managed multiple support systems including PKI's and developed an internal RAG-powered AI agent chatbot that operates over internal documentation, with integrated permissions and access control."
-      date: "09.2023 -  Present"
+      details: |
+        Part of the Network Management Systems team at MEO, Portugal's largest telecommunications provider and a multinational operator.
+        Managed support systems including PKI infrastructures and built an internal RAG-powered AI chatbot with permissions and access control.
+      date: "September, 2023 -  Present"

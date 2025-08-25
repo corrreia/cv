@@ -1,4 +1,9 @@
 projects:
+- title: "DSTC - Co-Founder"
+  link: "https://dstc.pt"
+  details: |
+    Co-founded with a friend, specializing in home automation and smart home solutions.
+    Focused on delivering customized technology integrations for clients in the Ericeira/West region of Portugal.
 - title: "University Projects"
   # subtitle: "University of Lisbon"
   # link: "https://github.com/corrreia?tab=repositories"

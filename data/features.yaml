@@ -1,6 +1,6 @@
 about:
     name: Tomás Correia
-    tagline: COMPUTER SCIENCE STUDENT
+    tagline: SOFTWARE ENGINEER
     email: me@tomascorreia.net
     links:
         - title: /in/tomasmcorreia/
@@ -13,7 +13,7 @@ about:
           url: https://tomascorreia.net
           icon: fas fa-globe
     details: |
-        Working @ MEO (previously Altice Portugal). Strong interest
+        Working at MEO (previously Altice Portugal). Strong interest
         for networking, virtualization, containerization, home automation and home lab/self hosting.
 
 skills:
