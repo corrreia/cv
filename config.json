@@ -44,6 +44,11 @@
 				"feature": "interests",
 				"widget": "word-list",
 				"style": "list"
+			},
+			{
+				"feature": "hobbies",
+				"widget": "word-list",
+				"style": "compact"
 			}
 		],
 		"pages": [
@@ -60,15 +65,6 @@
 					{
 						"feature": "projects",
 						"collection": "projects"
-					}
-				]
-			},
-			{
-				"features": [
-					{
-						"feature": "hobby",
-						"title": "Hobbies and Volunteering",
-						"collection": "hobby"
 					}
 				]
 			}

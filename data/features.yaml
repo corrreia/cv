@@ -17,32 +17,25 @@ about:
         for networking, virtualization, containerization, home automation and home lab/self hosting.
 
 skills:
-    - groupName: Programming
+    - groupName: Digital
       list:
-          - Go
-          - JavaScript / TypeScript
-          - Java
-          - C
-          - Python
-          - SQL
-          - HTML / CSS
-          - Haskell
+          - Backend Development
+          - OO Programming
+          - Golang
+          - Fullstack Development
+          - Cloudflare Ecosystem
 
-    - groupName: OSs
+    - groupName: Home Lab
       list:
-          - Debian
-          - Windows
-          - Ubuntu
-          - Fedora
-
-    - groupName: Tools & Software
-      list:
-          - Git
-          - Docker
           - Proxmox
-          - VSCode
+          - Docker
+          - Home Assistant
+          - authentik
+          - starting with k8s
+          - OPNsense
+          - lots of self-hosted services
 
-    - groupName: Other
+    - groupName: Interpersonal
       list:
           - Problem Solving
           - Teamwork
@@ -50,9 +43,8 @@ skills:
 
 interests:
     - Networking
-    - Virtualization
-    - Containerization
-    - Linux
+    - Infrastructure
+    - DevSecOps
     - Home Lab and Self Hosting
     - Programming in general
 
@@ -62,3 +54,17 @@ languages:
 
     - name: English
       level: Fluent
+
+
+hobbies:
+  - groupName: "Scouts"
+    list:
+      - Involvement in the scouting movement, as a scout and as a leader.
+  - groupName: "Refood"
+    list:
+      - Helping out with the distribution of food to people in need.
+  - groupName: "Banco Alimentar"
+    list:
+      - Helping out in local supermarkets and in the sorting center in Lisbon.
+
+
