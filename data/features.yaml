@@ -12,6 +12,9 @@ about:
         - title: tomascorreia.net
           url: https://tomascorreia.net
           icon: fas fa-globe
+        - title: Docs and Blog
+          url: https://lab.tomascorreia.net
+          icon: fas fa-rss
     details: |
         Working at MEO (previously Altice Portugal). Strong interest
         for networking, virtualization, containerization, home automation and home lab/self hosting.
