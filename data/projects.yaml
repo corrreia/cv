@@ -1,35 +1,31 @@
 projects:
-- title: "DSTC - Co-Founder"
-  link: "https://dstc.pt"
-  details: |
-    Co-founded with a friend, specializing in home automation and smart home solutions.
-    Focused on delivering customized technology integrations for clients in the Ericeira/West region of Portugal.
-- title: "University Projects"
-  # subtitle: "University of Lisbon"
-  # link: "https://github.com/corrreia?tab=repositories"
-  details: |
-    Multiple projects developed during my studies at the University of Lisbon.
-  links:
-  - title: MagnaEats - Uber Eats clone in C, only backend 
-    url: https://github.com/corrreia/MagnaEats_pt2
-  - title: MigrantMatcher - Java Object Oriented Programming
-    url: https://github.com/corrreia/MigrantMatcher
-  - title: Distributed Systems, chain replecation, protobufs and Apache Zookeeper
-    url: https://github.com/corrreia/SD
-  # - title: Solar System simulation using OpenGL and JavaScript
-  #   url: https://github.com/corrreia/ProjetoCG
-  - title: "Direct democracy platform, using Spring Boot, Thymeleaf and PostgreSQL"
-    url: "https://github.com/corrreia/democracia2"
+  - title: "DSTC - Co-Founder"
+    link: "https://dstc.pt"
+    details: |
+      Co-founded with a friend, specializing in home automation and smart home solutions.
+      Focused on delivering customized technology integrations for clients in the Ericeira/West region of Portugal.
+  - title: "University Projects"
+    # subtitle: "University of Lisbon"
+    # link: "https://github.com/corrreia?tab=repositories"
+    # details: |
+    #   Multiple projects developed during my studies at the University of Lisbon.
+    links:
+    - title: MagnaEats - Uber Eats clone in C, only backend 
+      url: https://github.com/corrreia/MagnaEats_pt2
+    - title: MigrantMatcher - Java Object Oriented Programming
+      url: https://github.com/corrreia/MigrantMatcher
+    - title: Distributed Systems, chain replecation, protobufs and Apache Zookeeper
+      url: https://github.com/corrreia/SD
+    # - title: Solar System simulation using OpenGL and JavaScript
+    #   url: https://github.com/corrreia/ProjetoCG
+    - title: "Direct democracy platform, using Spring Boot, Thymeleaf and PostgreSQL"
+      url: "https://github.com/corrreia/democracia2"
 
-- title: "Sol & Mar"
-  link: "https://sol-e-mar.tomascorreia.net"
-  details: |
-    A website for a local business, a luxury apartment complex in the region of Ericeira, Portugal.
-  # links:
-  # - title: Avaliable on GitHub
-    # url: https://github.com/corrreia/sol-e-mar
-
-- title: "GoVFD"
-  link: "https://github.com/corrreia/govfd"
-  details: |
-    Small golang library to controll VFD's. (Vacuum Fluorescent Display)
+  - title: "Other Projects"
+    # subtitle: "University of Lisbon"
+    # link: "https://github.com/corrreia?tab=repositories"
+    links:
+    - title: Sol & Mar, website for a local business in the region of Ericeira, Portugal.
+      url: https://github.com/corrreia/sol-e-mar
+    - title: GoVFD, golang library to controll VFD's. (Vacuum Fluorescent Display)
+      url: https://github.com/corrreia/govfd

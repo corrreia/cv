@@ -64,11 +64,11 @@
 					},
 					{
 						"feature": "projects",
-						"collection": "Projects"
+						"collection": "projects"
 					},
 					{
 						"feature": "contributions",
-						"collection": "Contributions"
+						"collection": "contributions"
 					}
 				]
 			}
