@@ -1,10 +1,19 @@
 contributions:
-  # - title: "eItems"
-  #   link: "https://github.com/ESK0/eItems"
-  #   # date: "2023"
-  #   details: |
-  #     Added a new feature to the plugin, more specifically, a couple of new natives.
-  #   links:
-  #   - title: Available in GitHub
-  #     url: https://github.com/ESK0/eItems
-  #     icon: fab fa-github
+  - title: "home-assistant/core"
+    link: "https://github.com/home-assistant/core"
+    # date: "2023"
+    details: |
+      New Backup Integration, Cloudflare R2.
+    links:
+    - title: Available in GitHub
+      url: https://github.com/home-assistant/core/pull/152825
+      icon: fab fa-github
+  - title: "iptv-org/epg"
+    link: "https://github.com/iptv-org/epg"
+    # date: "2023"
+    details: |
+      Enhanced the meo.pt site parser to fetch and include additional program details.
+    links:
+    - title: Available in GitHub
+      url: https://github.com/iptv-org/epg/pull/2907
+      icon: fab fa-github

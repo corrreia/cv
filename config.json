@@ -64,7 +64,11 @@
 					},
 					{
 						"feature": "projects",
-						"collection": "projects"
+						"collection": "Projects"
+					},
+					{
+						"feature": "contributions",
+						"collection": "Contributions"
 					}
 				]
 			}
@@ -72,7 +76,7 @@
 		"footer": {
 			"show": true,
 			"credits": false,
-			"footnote": "You can print this resume in A4 size or save as pdf. | Last update on 25/08/2025.",
+			"footnote": "You can print this resume in A4 size or save as pdf. | Last update on 11/11/2025.",
 			"links": [
 				{
 					"prefix": "Contact me on",
